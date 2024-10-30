@@ -3,7 +3,7 @@ I used the GitHub API to collect profiles of Toronto-based developers with 100+ 
 
 #### Interesting Discovery: 
 The most popular programming language among top Toronto developers was Python, followed by JavaScript which is very surprising. Majority of these projects used the MIT license, which suggests a preference for open-source licensing.
-Many profiles did not have company name listed incidating a lot of free lancing activity 
+Many profiles did not have company name listed incidating a lot of freelancing activity. 
 
 #### Developer Recommendation:
-Having MIT license for repositories attracts more users.Developers must also consider using python apart from conventional languages as it is equally popular in the community.
+Having MIT license for repositories attracts more users.Developers must also consider using python apart from conventional languages as they are equally popular in the community.
